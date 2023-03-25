@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @SaadMalik171999
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BSCS from Iqra University
+- 🌱 I’m Graduated BSCS from Iqra University
 - 🕗 I have had an experience in Angular TS, ASP.NET Core, React JS, Node JS, Git, Github.
 
 Career Objective:
