@@ -3,11 +3,11 @@
 
 - 👋 Hi, I’m @SaadMalik171999
 - 👀 I’m interested in Web Development
-- 🌱 I’m Graduated BSCS from Iqra University
+- 🌱 I’m Graduated BSCS from Iqra University at early 2022.
 - 🕗 I have had an experience in Angular TS, ASP.NET Core, React JS, Node JS, Git, Github.
 
 Career Objective:
-To quickly adapt to new challenges and responsibilities as a software engineer and to prove myself as an individual through hard work, dedication and efficiency. and seeking challenging assignments and responsibility with opportunities for advancement and career advancement as successful accomplishments, and 1+ years of experience.
+To quickly adapt to new challenges and responsibilities as a software engineer and to prove myself as an individual through hard work, dedication and efficiency. and seeking challenging assignments and responsibility with opportunities for advancement and career advancement as successful accomplishments, and 3+ years of experience.
 
 Summary of Skills:
 Unique ability to improvise, learn new skills and solve problems.
